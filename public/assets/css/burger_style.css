@@ -1,0 +1,16 @@
+/*li {
+     list-style-type: none;
+}*/
+body {
+	background-color: #42f1f4;
+	margin-top: 20px;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+.input-group {
+	margin: 20px;
+}
